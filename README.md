@@ -1,6 +1,6 @@
 ## 📎 Projet 6 - Construire une API sécurisée pour l'application d'avis gastronomiques So Pekocko
 
-![left 100%](Instructions/logo.jpg)
+
 ***
 
 Le sujet du projet 6 du parcours Développeur web chez Openclassrooms porte sur le développement d'une application d’évaluation des sauces piquantes pour la marque "So Pekocko". L'objectif étant de créer un MVP permettant aux utilisateurs d’ajouter leurs sauces préférées et de liker ou disliker les sauces ajoutées par les autres utilisateurs.
@@ -36,6 +36,13 @@ Le sujet du projet 6 du parcours Développeur web chez Openclassrooms porte sur 
 
 * Ce repo contient uniquement la partie `Backend`.
 Vous pouvez cloner ce repository pour récupérer en local dans un dossier nommé Backend qui sera le backend de l'application.
+
+Avec le terminal, aller dans le dossier backend, puis:
+
+        - créer un fichier ".env" et y implémenter les lignes de code qui vous ont été envoyées séparément,
+        ce sont les identifiant et password de mongoDB et le dossier node_module
+        - penser à bien enregistrer,
+
 
 * Vous trouverez la partie Frontend séparément sur [github](https://github.com/OpenClassrooms-Student-Center/dwj-projet6).
 Cloner le dans un répertoire nommé frontend
