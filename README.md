@@ -56,7 +56,7 @@ Cloner le dans un répertoire nommé frontend
 #### 💡 &nbsp; Faire tourner le Frontend
 
 * Ouvrir le terminal sur ce dossier et exécuter  `npm install` pour installer les dépendances.
-* Exécuter `npm install node-sass` pour installer sass.
+* Exécuter `npm install node-sass` pour installer sass.Attention à prendre la version correspondante à NodeJS. Pour Node 14.0 par exemple, installer node-sass en version 4.14+.
 * Le projet a été généré avec Angular CLI version 7.0.2.
 * Démarrer ng serve (ou `npm run start`) pour avoir accès au serveur de développement.
 * Rendez-vous sur `http://localhost:4200`.
